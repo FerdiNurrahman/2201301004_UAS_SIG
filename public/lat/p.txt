@@ -1,0 +1,276 @@
+1. UPTD SD Negeri 1 Batakan
+-4.082764931635699, 114.6353577392059
+
+2. SDN Benua Tengah 1
+-3.875978356790795, 114.65756068587577
+
+3. SDN Benua Tengah 3
+-3.8760429943775327, 114.65830321041079
+
+2. UPTD SD Negeri 1 Batu Mulia
+-3.968845852148416, 114.75669890484146
+
+3. UPTD SD Negeri 1 Batu Tungku
+-4.009835517347932, 114.69753630743857
+
+4. UPTD SD Negeri 1 Bati-Bati
+-3.592444452950095, 114.69237651061894
+
+5. UPTD SD Negeri 2 Bati-Bati
+-3.588920922380358, 114.6964166679161
+
+6. UPTD SD Negeri 2 Batakan
+-4.062590064340879, 114.64051451490853
+
+7. UPTD SD Negeri 3 Batakan
+-4.074099348753228, 114.63587355855361
+
+
+8. sd begeri 1 batu ungku
+-3.9996095952889106, 114.69688139275155
+
+10. UPTD SD Negeri 1 padang luas
+-3.6176331101233554, 114.62350245835637
+
+### SMP
+11. SMP Islam Nurul Hijrah
+-3.56083940949871, 114.61948078858775
+
+12. SMP Negeri 1 Bati-Bati
+-3.5994795876856234, 114.70588813373712
+
+
+
+13. sma negeri 1 jrong
+-3.9589521216495873, 114.91704519473434
+
+
+15. SMP Negeri 1 Kintap
+-3.878768941737345, 115.17990421159982
+
+16. SMP Negeri 1 Kurau
+-3.6080312011047857, 114.62015762440586
+
+17. SMP Negeri 1 Panyipatan
+-3.9671675272117732, 114.75523478124212
+
+
+18. SMP Negeri 1 Pelaihari
+-3.803530481695967, 114.76572261986605
+
+
+19. SMP Negeri 1 Takisung
+-3.8827982, 114.6257760
+
+20. SMP Negeri 1 Tambang Ulang
+-3.6883015706317366, 114.74035452171616
+
+21. SMP Negeri 4 Pelaihari
+-3.7964688566923614, 114.7511623463264
+
+
+22. SMP Negeri 2 Pelaihari
+-3.8079012880339076, 114.78727519473273
+
+23. SMP Negeri 3 Pelaihari
+-3.7648148939288975, 114.77119635425532
+
+
+24. SMP Negeri 2 Bati-Bati
+-3.535416661763547, 114.80169025425303
+
+
+26. SMP Negeri 1 Jorong
+-3.9586375319175175, 114.92115980183155
+
+
+27. SMP Negeri 2 Kintap
+-3.8453196082614567, 115.30384024118983
+
+28. SMP Negeri 2 Kurau
+-3.6593186021884905, 114.64368818829949
+
+29. SMP Negeri 2 Panyipatan
+-4.067855647154719, 114.64345975425849
+
+
+31. SMP Negeri 2 Takisung
+-3.767707717146952, 114.6136170775376
+
+
+32. SMP Negeri 2 Tambang Ulang
+-3.668682600410971, 114.68774523520838
+
+
+33. SMP Negeri 3 Bati-Bati
+-3.537426395703198, 114.72859189473004
+
+
+34. SMP Negeri 3 Batu Ampar
+-3.914946212477669, 114.92019246404672
+
+
+35. SMP Negeri 3 Jorong
+-3.976818531092425, 115.00953683421783
+
+
+36. SMP Negeri 3 Kintap
+-3.9014226143400124, 115.2656683052907
+
+37. SMP Negeri 3 Kurau
+-3.5800020058355564, 114.5887605455423
+
+
+
+40. SMP Negeri 3 Takisung
+-3.8490633034331725, 114.65165744076383
+
+41. SMP Negeri 4 Bati-Bati
+-3.6062927217994294, 114.79760711562798
+
+
+42. SMP Negeri 4 Batu Ampar
+-3.8454778352832046, 114.84755912356906
+
+
+43. SMP Negeri 4 Jorong
+-3.970044152735379, 115.10595542171913
+
+
+44. SMP Negeri 4 Kintap
+-3.8973803794202464, 115.14945757939013
+
+45. SMP Negeri 4 Kurau
+
+
+46. SMP Negeri 4 Pelaihari
+
+
+47. SMP Negeri 4 Takisung
+
+
+48. SMP Negeri 5 Bati-Bati
+
+
+49. SMP Negeri 5 Jorong
+
+
+50. SMP Negeri 5 Kintap
+
+
+
+
+### SMA/SMK
+51. SMAN 1 Panyipatan
+
+
+52. SMAN 1 Pelaihari
+
+
+53. SMAN 2 Pelaihari
+
+
+54. SMAN 1 Takisung
+
+
+55. SMAN 1 Tambang Ulang
+
+
+56. SMAN 2 Takisung
+
+
+57. SMAN 2 Tambang Ulang
+
+
+58. SMKN 1 Bati-Bati
+
+
+59. SMKN 1 Batu Ampar
+
+
+60. SMKN 1 Jorong
+
+
+61. SMKN 1 Kintap
+
+
+62. SMKN 1 Kurau
+
+
+63. SMKN 1 Panyipatan
+
+
+64. SMKN 1 Pelaihari
+
+
+65. SMKN 1 Takisung
+-3.8862831, 114.6207342
+
+66. SMKN 1 Tambang Ulang
+
+
+67. SMKN 2 Bati-Bati
+
+
+68. SMKN 2 Batu Ampar
+
+
+69. SMKN 2 Jorong
+
+
+70. SMKN 2 Kintap
+
+
+71. SMKN 2 Kurau
+
+
+72. SMKN 2 Panyipatan
+
+
+73. SMKN 2 Pelaihari
+
+
+74. SMKN 2 Takisung
+
+
+75. SMKN 2 Tambang Ulang
+
+
+76. SMKS Al Irsyad
+
+
+77. SMKS Darul Huda
+
+
+78. SMKS Darul Ilmi
+
+
+79. SMKS Manhajussalam
+
+
+80. SMKS Miftahul Ulum
+
+
+81. SMKS Muhammadiyah
+-3.7559921, 114.7657340
+
+82. SMKS Nur Ihya Iddin
+83. SMKS Sa Darussalim
+84. SMKS Terpadu Hidayatullah
+85. SMKS Al Fatah
+86. SMKS Al Kadir
+87. SMKS Ar-Raudhah
+88. SMKS Bina Satria
+89. SMKS Bumi Makmur
+90. SMKS Karya Bakti
+91. SMKS Muhammadiyah 1 Pelaihari
+92. SMKS Mutiara Bunda
+93. SMKS Nurul Hikmah
+94. SMKS Pelaihari Mandiri
+95. SMKS Pertiwi
+96. SMKS Sabilal Muhtadin
+97. SMKS Salafiyah Syafi'iyah
+98. SMKS Tunas Bangsa
+99. SMKS Uswatun Hasanah
+100. SMKS Walisongo
+
