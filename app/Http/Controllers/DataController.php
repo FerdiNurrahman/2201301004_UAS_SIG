@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
 use App\Models\Lokasi;
 
@@ -22,18 +23,41 @@ class DataController extends Controller
     }
 
     public function store(Request $request)
-    {
-        $request->validate([
-            'nama_lokasi' => 'required|string|max:255',
-            'koordinat' => 'required|string',
-            'jenis' => 'required|in:polygon,point',
-            'sekolah' => 'required|in:sd,smp,smk',
-        ]);
+{
+    $request->validate([
+        'nama_lokasi' => 'required|string|max:255',
+        'koordinat' => 'required|string',
+        'jenis' => 'required|in:polygon,point',
+        'sekolah' => 'required|in:sd,smp,smk',
+    ]);
 
-        Lokasi::create($request->all());
+    // Custom validation for koordinat based on jenis
+    $validator = Validator::make($request->all(), [
+        'koordinat' => function ($attribute, $value, $fail) use ($request) {
+            if ($request->jenis == 'polygon') {
+                $pattern = '/^\[\[(\[\d+(\.\d+)?,-\d+(\.\d+)?\],?)+\]\]$/';
+                if (!preg_match($pattern, $value)) {
+                    $fail('Data yang anda masukkan bukan polygon');
+                }
+            } elseif ($request->jenis == 'point') {
+                $pattern = '/^-?\d+(\.\d+)?,\s*-?\d+(\.\d+)?$/';
+                if (!preg_match($pattern, $value)) {
+                    $fail('Data anda bukan point');
+                }
+            }
+        },
+    ]);
 
-        return redirect()->route('data.index')->with('success', 'Lokasi berhasil ditambahkan.');
+    if ($validator->fails()) {
+        return redirect()->back()
+            ->withErrors($validator)
+            ->withInput();
     }
+
+    Lokasi::create($request->all());
+
+    return redirect()->route('data.index')->with('success', 'Lokasi berhasil ditambahkan.');
+}
 
     public function hapus($id)
     {
